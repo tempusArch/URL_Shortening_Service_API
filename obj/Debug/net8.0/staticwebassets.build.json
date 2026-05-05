@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P0KjYeTBJQR5F/1CI2HOCJsTKV5m7b+iedy9SRt/8Mo=",
+  "Source": "ShortenUrlApi",
+  "BasePath": "_content/ShortenUrlApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
